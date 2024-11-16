@@ -19,7 +19,7 @@ pip3 install -r requirements.txt
 # Solutions
 
 ## Question-1: 
-[`./question_1_analysis.ipynb`](./question_1_analysis.ipynb)
+[`./question_1.ipynb`](./question_1.ipynb)
 
 ## Question-2: 
 [`./question_2.ipynb`](./question_2.ipynb)
